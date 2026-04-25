@@ -94,5 +94,19 @@ The model was evaluated using:
 
 Recall is particularly important in this project because the aim is to identify patients at higher risk of missing appointments.
 
+## Power BI Dashboard
+
+A Power BI dashboard will be developed to provide operational insights into outpatient attendance and missed appointments.
+
+The dashboard will focus on:
+
+- Overall appointment attendance and no-show rate
+- No-show trends by age group, gender, and neighbourhood
+- Impact of SMS reminders on attendance
+- Waiting days and their relationship with missed appointments
+- High-risk patient groups and locations
+
+The aim is to support NHS-style outpatient capacity planning, reduce wasted appointment slots, and improve patient follow-up.
+
 ## Project Status
 In progress.
